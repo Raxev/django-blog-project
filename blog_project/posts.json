@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Random Post",
+		"content": "Filler Content",
+		"user_id": 2
+	},
+	{
+		"title": "Favorite Food",
+		"content": "Peruvian (lomo saltado, ceviche, causa rellena, tacu tacu, tallarines verdes con bistec apanado, grilled swordfish), Italian (stromboli, lasagna, pasta, calzone, pizza), American(hamburgers, country fried steak, mashed potatoes, Mexican (fajitas), Chinese (special fried rice",
+		"user_id": 1
+	},
+	{
+		"title": "Favorite Video Games",
+		"content": "The Legend of Zelda: Wind Waker, Paper Mario: The Thousand Year Door, Star Wars: The Old Republic, League of Legends, Pokemon SoulSilver, Warframe",
+		"user_id": 1
+	}
+]
