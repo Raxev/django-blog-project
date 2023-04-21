@@ -8,5 +8,5 @@ PyMySQL==0.9.3
 PyQt5==5.9.2
 pytz==2019.2
 sip==4.19.8
-sqlparse==0.3.0
+sqlparse==0.4.4
 virtualenv==16.4.0
