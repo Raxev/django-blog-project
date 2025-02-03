@@ -1,4 +1,4 @@
-Django==3.2.25
+Django==4.2.16
 django-admin-reset==0.3.1
 django-crispy-forms==1.7.2
 Pillow==10.3.0
