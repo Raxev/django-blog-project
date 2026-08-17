@@ -9,4 +9,4 @@ PyQt5==5.9.2
 pytz==2019.2
 sip==4.19.8
 virtualenv==20.36.1
-sqlparse==0.5.4
+sqlparse==0.6.0
